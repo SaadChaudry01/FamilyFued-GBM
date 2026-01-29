@@ -1,0 +1,369 @@
+{
+  "title": "MSA Family Feud Night",
+  "rounds": [
+    {
+      "id": "r1",
+      "questionNumber": 1,
+      "question": "Q1: Name something students do 5 minutes before an exam",
+      "answers": [
+        { "text": "Panic/Stress", "points": 35, "aliases": ["freak out", "panic", "stress", "cry", "anxious"] },
+        { "text": "Cram/Study", "points": 25, "aliases": ["study", "cram", "read notes", "last minute studying"] },
+        { "text": "Pray", "points": 18, "aliases": ["make dua", "dua", "pray to god"] },
+        { "text": "Check Phone", "points": 12, "aliases": ["phone", "text", "scroll"] },
+        { "text": "Ask Classmates Questions", "points": 7, "aliases": ["ask friends", "compare notes"] },
+        { "text": "Go to Bathroom", "points": 3, "aliases": ["bathroom", "restroom"] }
+      ]
+    },
+    {
+      "id": "r2",
+      "questionNumber": 2,
+      "question": "Q2: Name something people always have in their backpack",
+      "answers": [
+        { "text": "Phone Charger", "points": 30, "aliases": ["charger", "charging cable", "portable charger"] },
+        { "text": "Water Bottle", "points": 25, "aliases": ["water", "bottle", "hydroflask"] },
+        { "text": "Laptop", "points": 18, "aliases": ["computer", "macbook"] },
+        { "text": "Headphones/Earbuds", "points": 12, "aliases": ["headphones", "earbuds", "airpods"] },
+        { "text": "Snacks", "points": 10, "aliases": ["food", "granola bar", "chips"] },
+        { "text": "Gum/Mints", "points": 5, "aliases": ["gum", "mints", "breath mints"] }
+      ]
+    },
+    {
+      "id": "r3",
+      "questionNumber": 3,
+      "question": "Q3: Name a reason someone gives for being late to class",
+      "answers": [
+        { "text": "Traffic/Parking", "points": 30, "aliases": ["traffic", "parking", "couldn't find parking"] },
+        { "text": "Overslept", "points": 28, "aliases": ["slept in", "alarm didn't go off", "woke up late"] },
+        { "text": "Bus Was Late", "points": 15, "aliases": ["bus", "shuttle", "missed the bus"] },
+        { "text": "Couldn't Find the Room", "points": 12, "aliases": ["lost", "wrong building", "got lost"] },
+        { "text": "Was Getting Food", "points": 10, "aliases": ["food", "coffee", "starbucks"] },
+        { "text": "Previous Class Ran Late", "points": 5, "aliases": ["other class", "professor kept us"] }
+      ]
+    },
+    {
+      "id": "r4",
+      "questionNumber": 4,
+      "question": "Q4: Name something you hear at every MSA event",
+      "answers": [
+        { "text": "Assalamu Alaikum", "points": 35, "aliases": ["salam", "salaam", "greeting"] },
+        { "text": "Free Food", "points": 28, "aliases": ["food", "there's food", "dinner", "we have pizza"] },
+        { "text": "Join Our GroupMe", "points": 15, "aliases": ["groupme", "group chat", "whatsapp", "follow our instagram"] },
+        { "text": "Inshallah", "points": 10, "aliases": ["insha allah", "god willing"] },
+        { "text": "Bismillah", "points": 7, "aliases": ["bismillah", "before eating"] },
+        { "text": "Take Your Shoes Off", "points": 5, "aliases": ["shoes", "remove shoes", "shoes off"] }
+      ]
+    },
+    {
+      "id": "r5",
+      "questionNumber": 5,
+      "question": "Q5: Name something people do instead of studying",
+      "answers": [
+        { "text": "Watch Netflix/YouTube", "points": 32, "aliases": ["netflix", "youtube", "tv", "streaming"] },
+        { "text": "Scroll Social Media", "points": 25, "aliases": ["tiktok", "instagram", "phone", "twitter"] },
+        { "text": "Sleep/Nap", "points": 18, "aliases": ["sleep", "nap", "rest"] },
+        { "text": "Eat/Snack", "points": 12, "aliases": ["eat", "food", "snack", "fridge"] },
+        { "text": "Clean Their Room", "points": 8, "aliases": ["clean", "organize", "suddenly productive"] },
+        { "text": "Talk to Friends", "points": 5, "aliases": ["text", "call", "hang out"] }
+      ]
+    },
+    {
+      "id": "r6",
+      "questionNumber": 6,
+      "question": "Q6: Name a place where people always take selfies",
+      "answers": [
+        { "text": "Bathroom/Mirror", "points": 30, "aliases": ["bathroom", "mirror", "restroom"] },
+        { "text": "Beach/Vacation Spot", "points": 25, "aliases": ["beach", "vacation", "travel", "tourist spot"] },
+        { "text": "Restaurant/Cafe", "points": 15, "aliases": ["restaurant", "cafe", "food place", "with food"] },
+        { "text": "Gym", "points": 12, "aliases": ["gym", "workout", "fitness"] },
+        { "text": "Car", "points": 10, "aliases": ["car", "driving", "parking lot"] },
+        { "text": "Concert/Event", "points": 8, "aliases": ["concert", "event", "party"] }
+      ]
+    },
+    {
+      "id": "r7",
+      "questionNumber": 7,
+      "question": "Q7: Name something that makes Fajr prayer hard to wake up for",
+      "answers": [
+        { "text": "Staying Up Late", "points": 35, "aliases": ["late night", "sleep late", "went to bed late"] },
+        { "text": "Warm/Comfortable Bed", "points": 25, "aliases": ["comfy bed", "warm blanket", "cozy"] },
+        { "text": "Hitting Snooze", "points": 15, "aliases": ["snooze", "alarm", "just 5 more minutes"] },
+        { "text": "Cold Weather", "points": 12, "aliases": ["cold", "winter", "freezing"] },
+        { "text": "Being Tired/Exhausted", "points": 8, "aliases": ["tired", "exhausted", "no energy"] },
+        { "text": "Phone/Social Media at Night", "points": 5, "aliases": ["phone", "scrolling", "screen time"] }
+      ]
+    },
+    {
+      "id": "r8",
+      "questionNumber": 8,
+      "question": "Q8: Name something people do while waiting for food delivery",
+      "answers": [
+        { "text": "Track the Order", "points": 35, "aliases": ["track", "refresh app", "watch the map", "check status"] },
+        { "text": "Watch TV/Netflix", "points": 22, "aliases": ["tv", "netflix", "youtube", "watch something"] },
+        { "text": "Scroll Phone", "points": 18, "aliases": ["phone", "social media", "tiktok"] },
+        { "text": "Set the Table/Get Ready", "points": 12, "aliases": ["clean", "set table", "get plates"] },
+        { "text": "Snack on Something", "points": 8, "aliases": ["snack", "eat chips", "appetizer"] },
+        { "text": "Complain It's Taking Too Long", "points": 5, "aliases": ["complain", "impatient", "why so slow"] }
+      ]
+    },
+    {
+      "id": "r9",
+      "questionNumber": 9,
+      "question": "Q9: Name something people forget to bring to class",
+      "answers": [
+        { "text": "Laptop/Computer", "points": 28, "aliases": ["laptop", "computer", "charger"] },
+        { "text": "Pen/Pencil", "points": 25, "aliases": ["pen", "pencil", "something to write with"] },
+        { "text": "Notebook/Paper", "points": 18, "aliases": ["notebook", "paper", "notes"] },
+        { "text": "Homework/Assignment", "points": 15, "aliases": ["homework", "assignment", "printed paper"] },
+        { "text": "Student ID", "points": 8, "aliases": ["id", "student id", "id card"] },
+        { "text": "Textbook", "points": 6, "aliases": ["textbook", "book", "reading"] }
+      ]
+    },
+    {
+      "id": "r10",
+      "questionNumber": 10,
+      "question": "Q10: Name something people do right after Iftar",
+      "answers": [
+        { "text": "Pray Maghrib", "points": 40, "aliases": ["maghrib", "pray", "salah", "prayer"] },
+        { "text": "Eat More Food", "points": 25, "aliases": ["eat", "food", "seconds", "main course"] },
+        { "text": "Drink Water/Chai", "points": 15, "aliases": ["water", "drink", "tea", "chai"] },
+        { "text": "Rest/Lay Down", "points": 10, "aliases": ["rest", "sit", "relax", "food coma"] },
+        { "text": "Check Phone", "points": 6, "aliases": ["phone", "messages", "social media"] },
+        { "text": "Help Clean Up", "points": 4, "aliases": ["clean", "dishes", "help mom"] }
+      ]
+    },
+    {
+      "id": "r11",
+      "questionNumber": 11,
+      "question": "Q11: Name something college students spend too much money on",
+      "answers": [
+        { "text": "Food/Eating Out", "points": 35, "aliases": ["food", "eating out", "restaurants", "takeout", "doordash"] },
+        { "text": "Coffee/Starbucks", "points": 25, "aliases": ["coffee", "starbucks", "dunkin", "boba"] },
+        { "text": "Clothes/Shopping", "points": 15, "aliases": ["clothes", "shopping", "amazon"] },
+        { "text": "Subscriptions", "points": 12, "aliases": ["netflix", "spotify", "subscriptions"] },
+        { "text": "Uber/Rides", "points": 8, "aliases": ["uber", "lyft", "transportation"] },
+        { "text": "Games/Entertainment", "points": 5, "aliases": ["games", "video games", "concerts"] }
+      ]
+    },
+    {
+      "id": "r12",
+      "questionNumber": 12,
+      "question": "Q12: Name something people say when they don't want to hang out",
+      "answers": [
+        { "text": "I'm Busy", "points": 35, "aliases": ["busy", "got stuff to do", "have plans"] },
+        { "text": "I'm Tired", "points": 28, "aliases": ["tired", "exhausted", "need to rest"] },
+        { "text": "I Have Homework", "points": 15, "aliases": ["homework", "studying", "assignment due"] },
+        { "text": "Maybe Next Time", "points": 10, "aliases": ["next time", "rain check", "another time"] },
+        { "text": "I'm Not Feeling Well", "points": 8, "aliases": ["sick", "not feeling good", "headache"] },
+        { "text": "I Have Work", "points": 4, "aliases": ["work", "working", "shift"] }
+      ]
+    },
+    {
+      "id": "r13",
+      "questionNumber": 13,
+      "question": "Q13: Name something that always happens during group projects",
+      "answers": [
+        { "text": "One Person Does All the Work", "points": 35, "aliases": ["one person", "carry the group", "do everything"] },
+        { "text": "Someone Doesn't Respond", "points": 25, "aliases": ["ghosted", "no reply", "doesn't answer"] },
+        { "text": "Last Minute Rush", "points": 18, "aliases": ["last minute", "procrastinate", "night before"] },
+        { "text": "Scheduling Conflicts", "points": 10, "aliases": ["can't meet", "busy schedules", "no time"] },
+        { "text": "Arguing/Disagreements", "points": 7, "aliases": ["argue", "fight", "disagree"] },
+        { "text": "Unequal Work Split", "points": 5, "aliases": ["unfair", "some do more", "slackers"] }
+      ]
+    },
+    {
+      "id": "r14",
+      "questionNumber": 14,
+      "question": "Q14: Name something people look forward to about the weekend",
+      "answers": [
+        { "text": "Sleeping In", "points": 35, "aliases": ["sleep", "sleeping in", "no alarm"] },
+        { "text": "No Work/School", "points": 25, "aliases": ["no class", "day off", "no responsibilities"] },
+        { "text": "Hanging Out with Friends", "points": 18, "aliases": ["friends", "plans", "going out"] },
+        { "text": "Watching Shows/Movies", "points": 10, "aliases": ["netflix", "movies", "binge watch"] },
+        { "text": "Good Food", "points": 7, "aliases": ["eating", "restaurant", "home cooked meal"] },
+        { "text": "Family Time", "points": 5, "aliases": ["family", "parents", "home"] }
+      ]
+    },
+    {
+      "id": "r15",
+      "questionNumber": 15,
+      "question": "Q15: Name something that happens during Taraweeh",
+      "answers": [
+        { "text": "Someone's Phone Rings", "points": 35, "aliases": ["phone", "ringtone", "phone goes off"] },
+        { "text": "Kids Running Around", "points": 22, "aliases": ["kids", "children", "running", "loud kids"] },
+        { "text": "Someone Falls Asleep", "points": 18, "aliases": ["sleep", "doze off", "nodding off"] },
+        { "text": "People Coming in Late", "points": 12, "aliases": ["late", "walking in late"] },
+        { "text": "AC Too Cold/Hot", "points": 8, "aliases": ["cold", "freezing", "ac", "hot"] },
+        { "text": "Someone Crying", "points": 5, "aliases": ["crying", "tears", "emotional"] }
+      ]
+    },
+    {
+      "id": "r16",
+      "questionNumber": 16,
+      "question": "Q16: Name something people do when they're bored in class",
+      "answers": [
+        { "text": "Check Phone", "points": 35, "aliases": ["phone", "text", "scroll", "instagram"] },
+        { "text": "Daydream", "points": 22, "aliases": ["zone out", "space out", "think about other stuff"] },
+        { "text": "Doodle/Draw", "points": 18, "aliases": ["draw", "doodle", "sketch"] },
+        { "text": "Sleep/Close Eyes", "points": 12, "aliases": ["sleep", "nap", "rest eyes"] },
+        { "text": "Online Shopping", "points": 8, "aliases": ["shop", "amazon", "browse"] },
+        { "text": "Watch the Clock", "points": 5, "aliases": ["clock", "time", "count down"] }
+      ]
+    },
+    {
+      "id": "r17",
+      "questionNumber": 17,
+      "question": "Q17: Name an excuse people give for not going to the gym",
+      "answers": [
+        { "text": "Too Tired", "points": 32, "aliases": ["tired", "exhausted", "no energy"] },
+        { "text": "No Time", "points": 28, "aliases": ["busy", "no time", "schedule"] },
+        { "text": "Too Crowded", "points": 15, "aliases": ["crowded", "packed", "too many people"] },
+        { "text": "Weather", "points": 10, "aliases": ["cold", "hot", "raining", "weather"] },
+        { "text": "Don't Have Gym Clothes", "points": 8, "aliases": ["clothes", "nothing to wear", "laundry"] },
+        { "text": "Will Start Tomorrow", "points": 7, "aliases": ["tomorrow", "next week", "monday"] }
+      ]
+    },
+    {
+      "id": "r18",
+      "questionNumber": 18,
+      "question": "Q18: Name something that's hard to do without coffee",
+      "answers": [
+        { "text": "Wake Up", "points": 35, "aliases": ["waking up", "morning", "get out of bed"] },
+        { "text": "Focus/Concentrate", "points": 28, "aliases": ["focus", "concentrate", "pay attention"] },
+        { "text": "Study", "points": 15, "aliases": ["studying", "homework", "work"] },
+        { "text": "Stay Awake in Class", "points": 10, "aliases": ["class", "lecture", "stay awake"] },
+        { "text": "Be Nice to People", "points": 7, "aliases": ["nice", "friendly", "not grumpy"] },
+        { "text": "Function at All", "points": 5, "aliases": ["function", "exist", "do anything"] }
+      ]
+    },
+    {
+      "id": "r19",
+      "questionNumber": 19,
+      "question": "Q19: Name something people always forget to pack when traveling",
+      "answers": [
+        { "text": "Phone Charger", "points": 35, "aliases": ["charger", "charging cable", "power bank"] },
+        { "text": "Toothbrush/Toiletries", "points": 22, "aliases": ["toothbrush", "toothpaste", "deodorant"] },
+        { "text": "Underwear/Socks", "points": 15, "aliases": ["underwear", "socks", "undergarments"] },
+        { "text": "Medication", "points": 12, "aliases": ["medicine", "pills", "prescription"] },
+        { "text": "ID/Passport", "points": 10, "aliases": ["id", "passport", "license", "documents"] },
+        { "text": "Headphones", "points": 6, "aliases": ["headphones", "earbuds", "airpods"] }
+      ]
+    },
+    {
+      "id": "r20",
+      "questionNumber": 20,
+      "question": "Q20: Name something students do on the first day of class",
+      "answers": [
+        { "text": "Find a Seat", "points": 30, "aliases": ["sit", "pick a seat", "where to sit"] },
+        { "text": "Read the Syllabus", "points": 25, "aliases": ["syllabus", "look at syllabus", "check workload"] },
+        { "text": "Scope Out Classmates", "points": 15, "aliases": ["look around", "check out people", "see who's there"] },
+        { "text": "Introduce Yourself", "points": 12, "aliases": ["introductions", "icebreaker", "say your name"] },
+        { "text": "Leave Early", "points": 10, "aliases": ["leave", "go home", "dismissed early"] },
+        { "text": "Add/Drop Decision", "points": 8, "aliases": ["drop", "stay or leave", "is this class worth it"] }
+      ]
+    },
+    {
+      "id": "r21",
+      "questionNumber": 21,
+      "question": "Q21: Name something you need to survive finals week",
+      "answers": [
+        { "text": "Coffee/Energy Drinks", "points": 35, "aliases": ["coffee", "redbull", "caffeine", "energy drinks"] },
+        { "text": "Sleep", "points": 22, "aliases": ["sleep", "rest", "naps"] },
+        { "text": "Snacks/Food", "points": 18, "aliases": ["food", "snacks", "pizza"] },
+        { "text": "Study Guides/Notes", "points": 12, "aliases": ["notes", "study guide", "quizlet"] },
+        { "text": "Quiet Study Space", "points": 8, "aliases": ["library", "quiet", "study spot"] },
+        { "text": "Friends/Study Group", "points": 5, "aliases": ["friends", "study group", "support"] }
+      ]
+    },
+    {
+      "id": "r22",
+      "questionNumber": 22,
+      "question": "Q22: Name something people check first thing in the morning",
+      "answers": [
+        { "text": "Phone/Texts", "points": 40, "aliases": ["phone", "messages", "texts", "notifications"] },
+        { "text": "Time/Alarm", "points": 25, "aliases": ["time", "alarm", "clock", "what time is it"] },
+        { "text": "Social Media", "points": 15, "aliases": ["instagram", "tiktok", "twitter"] },
+        { "text": "Weather", "points": 10, "aliases": ["weather", "temperature", "forecast"] },
+        { "text": "Email", "points": 6, "aliases": ["email", "inbox", "messages"] },
+        { "text": "Mirror/Appearance", "points": 4, "aliases": ["mirror", "how do i look", "hair"] }
+      ]
+    },
+    {
+      "id": "r23",
+      "questionNumber": 23,
+      "question": "Q23: Name a reason people give for not texting back",
+      "answers": [
+        { "text": "Didn't See It", "points": 35, "aliases": ["didn't see", "missed it", "didn't notice"] },
+        { "text": "Was Busy", "points": 28, "aliases": ["busy", "doing something", "occupied"] },
+        { "text": "Phone Died", "points": 15, "aliases": ["phone died", "dead battery", "no charge"] },
+        { "text": "Forgot", "points": 10, "aliases": ["forgot", "slipped my mind", "meant to reply"] },
+        { "text": "Was Sleeping", "points": 7, "aliases": ["asleep", "sleeping", "napping"] },
+        { "text": "No Service", "points": 5, "aliases": ["no signal", "bad service", "wifi down"] }
+      ]
+    },
+    {
+      "id": "r24",
+      "questionNumber": 24,
+      "question": "Q24: Name something that makes people late to Jummah",
+      "answers": [
+        { "text": "Work/Class", "points": 32, "aliases": ["work", "class", "meeting", "couldn't leave"] },
+        { "text": "Traffic/Parking", "points": 25, "aliases": ["traffic", "parking", "no spots"] },
+        { "text": "Overslept", "points": 18, "aliases": ["slept in", "woke up late", "nap"] },
+        { "text": "Finding Something to Wear", "points": 10, "aliases": ["clothes", "getting dressed", "outfit"] },
+        { "text": "Lost Track of Time", "points": 8, "aliases": ["forgot", "didn't realize", "time flew"] },
+        { "text": "Wudu", "points": 7, "aliases": ["making wudu", "ablution", "washing up"] }
+      ]
+    },
+    {
+      "id": "r25",
+      "questionNumber": 25,
+      "question": "Q25: Name something people always say they'll do but never actually do",
+      "answers": [
+        { "text": "Exercise/Go to Gym", "points": 35, "aliases": ["gym", "workout", "exercise", "get fit"] },
+        { "text": "Eat Healthier", "points": 25, "aliases": ["diet", "healthy eating", "eat better"] },
+        { "text": "Wake Up Earlier", "points": 15, "aliases": ["wake up early", "morning person", "sleep schedule"] },
+        { "text": "Save Money", "points": 10, "aliases": ["save", "budget", "stop spending"] },
+        { "text": "Read More Books", "points": 8, "aliases": ["read", "books", "reading"] },
+        { "text": "Learn Something New", "points": 7, "aliases": ["learn", "hobby", "skill", "language"] }
+      ]
+    },
+    {
+      "id": "r26",
+      "questionNumber": 26,
+      "question": "Q26: Name something you'd find in every college dorm room",
+      "answers": [
+        { "text": "Mini Fridge", "points": 30, "aliases": ["fridge", "mini fridge", "refrigerator"] },
+        { "text": "Microwave", "points": 25, "aliases": ["microwave", "to heat food"] },
+        { "text": "Fairy Lights/LED Lights", "points": 18, "aliases": ["lights", "string lights", "led strips"] },
+        { "text": "Tapestry/Posters", "points": 12, "aliases": ["posters", "tapestry", "wall decor"] },
+        { "text": "Instant Noodles/Ramen", "points": 10, "aliases": ["ramen", "noodles", "cup noodles"] },
+        { "text": "Messy Laundry", "points": 5, "aliases": ["laundry", "clothes everywhere", "dirty clothes"] }
+      ]
+    },
+    {
+      "id": "r27",
+      "questionNumber": 27,
+      "question": "Q27: Name a song everyone knows the words to",
+      "answers": [
+        { "text": "Happy Birthday", "points": 40, "aliases": ["birthday song", "happy birthday to you"] },
+        { "text": "Bohemian Rhapsody", "points": 22, "aliases": ["queen", "is this the real life"] },
+        { "text": "ABC Song/Alphabet", "points": 15, "aliases": ["abc", "alphabet song", "abcs"] },
+        { "text": "Twinkle Twinkle Little Star", "points": 10, "aliases": ["twinkle twinkle", "nursery rhyme"] },
+        { "text": "Let It Go", "points": 8, "aliases": ["frozen", "elsa", "disney"] },
+        { "text": "Baby Shark", "points": 5, "aliases": ["doo doo doo", "kids song"] }
+      ]
+    },
+    {
+      "id": "r28",
+      "questionNumber": 28,
+      "question": "Q28: Name something people bring to a potluck",
+      "answers": [
+        { "text": "Rice/Biryani", "points": 30, "aliases": ["rice", "biryani", "pulao", "fried rice"] },
+        { "text": "Chips/Snacks", "points": 22, "aliases": ["chips", "snacks", "appetizers"] },
+        { "text": "Dessert/Sweets", "points": 18, "aliases": ["dessert", "cake", "cookies", "brownies"] },
+        { "text": "Soda/Drinks", "points": 12, "aliases": ["drinks", "soda", "juice", "beverages"] },
+        { "text": "Salad", "points": 10, "aliases": ["salad", "fruit salad", "pasta salad"] },
+        { "text": "Nothing (forgot)", "points": 8, "aliases": ["nothing", "empty handed", "forgot", "just themselves"] }
+      ]
+    }
+  ]
+}
